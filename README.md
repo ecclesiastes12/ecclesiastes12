@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Solomon Otoo  
 
+<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=ecclesiastes12&color=blueviolet&style=for-the-badge)  
 [![GitHub followers](https://img.shields.io/github/followers/ecclesiastes12?style=for-the-badge)](https://github.com/ecclesiastes12?tab=followers)  
 [![GitHub stars](https://img.shields.io/github/stars/ecclesiastes12?style=for-the-badge)](https://github.com/ecclesiastes12?tab=repositories)  
 
 ---
+-->
 
 ## 🚀 About Me
 - 💻 **Senior IT Technologist** in a hospital, managing **IT infrastructure**, **LHIMS**, and **GIFMIS** systems.  
